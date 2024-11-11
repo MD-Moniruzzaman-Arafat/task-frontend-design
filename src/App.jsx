@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className='bg-[#BD1F17] h-screen w-full' style={{ backgroundImage: `url(${bannerBg})` }}>
+      <div className='bg-[#BD1F17] h-full w-full' style={{ backgroundImage: `url(${bannerBg})` }}>
         <Navbar />
         <Banner />
       </div>
